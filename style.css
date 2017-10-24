@@ -56,16 +56,18 @@ body {
 	border: 1px solid #F5F5F5;
 	background-color: #F5F5F5;
 	color: black;
+	margin: 55px 0 20px 0;
 }
 
 .asd {
 	float: right;
 	border: 1px solid #F5FFFA;
-	width: 45%;
+	width: 35%;
 	height: 200px;
 	margin-top: 60px;
 	background-color: #F5FFFA;
 	color: #008080;
+
 
 }
 
@@ -75,4 +77,10 @@ footer {
 	text-align: center;
 	background-color: #DCDCDC;
 	color: #778899;
+	margin: 20px 0 0 0;
+}
+
+.menu {
+	text-align: center;
+
 }
